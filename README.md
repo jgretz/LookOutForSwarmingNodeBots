@@ -1,1 +1,3 @@
-Look Out For Swarming Node Bots
+Watch Out For Swarming Node Bots
+==========================================
+Have you ever admired the complexity of a beehive or appreciated an army of ants marching towards a scrap of food? This talk is a study of what developers can learn from these seemingly simple creatures that are able to create such intricate patterns. Utilizing node bots as a medium, you will explore emergent intelligence by working through actual implementations of swarm algorithms. Through this analysis, you will expand your perspective and discover some new approaches to solving every day problems. Come join the collective, but watch out for the swarming bots.
